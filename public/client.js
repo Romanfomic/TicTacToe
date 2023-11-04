@@ -1,3 +1,5 @@
+//This is temporary client for testing backend
+
 function copyLink() {
     var divText = document.getElementById('link').innerText;
     var textarea = document.createElement('textarea');
